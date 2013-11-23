@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: 关于我
 ---
+工程师，曾就职于百度和宝宝树，做过网络、CDN、性能优化等；目前专注于网站开发，以RoR为主；
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+互联网创业者，目前联合创办大鱼旅行 fishtrip.cn ，专注于境外自助游一站式解决方案；
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+思考者，努力了解自己中；
 
-This theme is made by me. You have a nice day. ♥
+喜欢游泳、读书、电影、美剧和音乐电台, 偶尔旅行; 空想主义者，想做的事情太多，勇气太少，惰性太多；
